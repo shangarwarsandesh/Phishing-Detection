@@ -84,10 +84,10 @@ This workflow ensures a robust and scalable **phishing detection system**! ðŸš€ð
 ## Screenshots :
 
 ### Phishing Example
-![Phishing Example](phishing-example.jpg)
+![Phishing Example](phishing-example.png)
 
 ### Legitimate Example
-![Legitimate Example](legitimate-example.jpg)
+![Legitimate Example](legitimate-example.png)
 
 ## Author :
 ```
